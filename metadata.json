@@ -1,0 +1,8 @@
+{
+  "name": "AI Interview Coach",
+  "description": "Real-time voice-to-voice interview coaching with instant feedback using Gemini 3.1 Flash Live.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
