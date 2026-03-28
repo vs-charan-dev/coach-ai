@@ -36,7 +36,7 @@ Coach.ai is a professional, high-performance interview preparation platform powe
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/vs-charan-dev/coach-ai.git
    cd coach-ai
    ```
 
