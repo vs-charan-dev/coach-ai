@@ -1,3 +1,7 @@
+<img width="1897" height="783" alt="image" src="https://github.com/user-attachments/assets/8f5cf332-8cc0-4624-b540-cc07568cfb8a" />
+
+
+
 # Coach.ai - AI Interview Intelligence
 
 Coach.ai is a professional, high-performance interview preparation platform powered by Google's Gemini 3.1 Live API. It provides a realistic, low-latency simulation of a high-stakes interview, offering real-time feedback on both verbal content and non-verbal communication.
